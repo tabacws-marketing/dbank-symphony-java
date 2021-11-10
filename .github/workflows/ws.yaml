@@ -1,5 +1,6 @@
 name: Whitesource Prioritize Java with Maven
 
+
 on:
   push:
     branches: [ 23ff3da* ]
